@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movement_Practice", "Movement_Practice.csproj", "{01A979C5-6974-B5F5-5F6A-F7E3B8246EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movement_Practice.Plugins", "Movement_Practice.Plugins.csproj", "{C38B80E7-125A-1D72-9DEF-6728BA361E89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movement_Practice.Editor.Plugins", "Movement_Practice.Editor.Plugins.csproj", "{2C0AEA50-C210-D272-0CC4-EC0298821742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01A979C5-6974-B5F5-5F6A-F7E3B8246EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A979C5-6974-B5F5-5F6A-F7E3B8246EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A979C5-6974-B5F5-5F6A-F7E3B8246EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A979C5-6974-B5F5-5F6A-F7E3B8246EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C38B80E7-125A-1D72-9DEF-6728BA361E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38B80E7-125A-1D72-9DEF-6728BA361E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38B80E7-125A-1D72-9DEF-6728BA361E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38B80E7-125A-1D72-9DEF-6728BA361E89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C0AEA50-C210-D272-0CC4-EC0298821742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0AEA50-C210-D272-0CC4-EC0298821742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0AEA50-C210-D272-0CC4-EC0298821742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0AEA50-C210-D272-0CC4-EC0298821742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
